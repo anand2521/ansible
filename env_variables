@@ -6,9 +6,9 @@
 
 cidr_v: 10.244.0.0/16
 
-access_key: AKIAUOTFYGHGOJRIVZ7Z
+access_key: 
 
-secret_key: ceWMB07priQqDi/K8hYRBIrpOvVVDSqJDquWs0cC
+secret_key: 
 
 vpc_subnet_id: subnet-977b23da
 
